@@ -1,11 +1,12 @@
-# Sulaiman A
-**byt3n33dl3** `Offensive Security`
+# Sulaiman @byt3n33dl3 
+
+`Offensive Security`
 
 <a href="https://github.com/byt3n33dl3/"><p align="center">
-<img src="/icon.png">
+<img src="/br.png">
 </p></a>
 
-# WebExec / `Master`
+# Web / `master`
 
 [![Release](https://github.com/BishopFox/sliver/actions/workflows/autorelease.yml/badge.svg)](https://github.com/BishopFox/sliver/actions/workflows/autorelease.yml) [![License: GPL v3](https://img.shields.io/badge/License-BSDv2-yellow.svg)](https://www.gnu.org/licenses/bsd-2.0)
 
@@ -15,9 +16,9 @@ You are on the **latest Up to Date** repository of the project for my `Personal`
 - If you want to contribute, open a [Pull Request](https://github.com/byt3exec/byt3n33dl3/pulls)
 - If you want to discuss, open a [Discussion](https://github.com/byt3exec/byt3n33dl3/discussions)
 
-# `Copy` / Master
+# Copy / `master`
 
-Feel free to use this webite `base` as `Reference`
+Feel free to use this webite `Base` as `Reference`
 
 ```c
 /*
@@ -50,12 +51,15 @@ int main(void) {
     // Personal Introduction
     printf("Hello, World!\n");
     printf("I'm an Ethical Hacker\n", NAME);
-    printf("I specialize in Red Teaming, focusing on uncovering and fixing vulnerabilities in networks and applications.\n", SPECIALTY);
+    printf("I specialize in Red Teaming, focusing on uncovering and 
+    fixing vulnerabilities in networks and applications.\n", SPECIALTY);
     
     // Hacking Philosophy
     if (ethical == true) {
-        printf("Ethics is the key! As a hacker, my mission is to safeguard systems and protect privacy.\n");
-        printf("I believe in responsible disclosure, ensuring that vulnerabilities are fixed before being exploited.\n");
+        printf("Ethics is the key! As a hacker, my mission is to safeguard 
+        systems and protect privacy.\n");
+        printf("I believe in responsible disclosure, ensuring that 
+        vulnerabilities are fixed before being exploited.\n");
     } else {
         printf("Warning: Unethical behavior detected!\n");
         return -1;
@@ -85,8 +89,7 @@ int main(void) {
 // End of README.md
 ```
 
-# `Feedback` / Master
+# Feedback / `master`
 
-Please take a Moment and fill out `s.id/byt3n33dl3` Survey
+Please take a `Moment` and fill out [s.id/byt3n33dl3](s.id/byt3n33dl3) Survey
 
-# LICENSE | `BSD 2`
